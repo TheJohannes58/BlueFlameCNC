@@ -1,4 +1,3 @@
-# [切换到中文版](./README_zh_cn.md)
 
 # EBB36 & 42 CAN V1.0
 ## Hardware
