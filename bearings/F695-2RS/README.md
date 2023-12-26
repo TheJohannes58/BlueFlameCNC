@@ -1,4 +1,4 @@
-
+**
 · Model: F695 2RS
 · Accuracy Class: ABEC-7
 · Bearing Type: Flange Ball Bearing
@@ -12,7 +12,9 @@
 · Width (B): 4mm
 · Flange OD: 15mm
 · Flange thickness: 1mm
+**
 ![F695-2RS](images/F695-2RS.png)
+**
 · Dynamic load (Cr) (N): 916
 · Static load (Cor) (N): 346
 · Limiting speed (oil) (X1000 RPM): 46
