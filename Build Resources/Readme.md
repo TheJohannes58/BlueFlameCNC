@@ -1,4 +1,4 @@
-![Screws](images/F695-2RS.png)
+![Screws](images/screws.jpg)
 ## Build Resources Guide
 There are times where quality overrides price.
 And are times where it will be more economical to buy a larger quantity of an item. Spare parts can be beneficial at times. 
