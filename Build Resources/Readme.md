@@ -5,7 +5,5 @@ And are times where it will be more economical to buy a larger quantity of an it
 Things like Bearings and motors need to come from quality suppliers. Machines that are not working produce nothing and no money! Make compromises accordingly...
 
 **Fasteners**
-
--[**Bolt Depot**] (https://www.boltdepot.com/)
-
--[**McMaster Carr**] (https://www.mcmaster.com/)
+[**Bolt Depot**](https://www.boltdepot.com/)
+[**McMaster Carr**](https://www.mcmaster.com/)
