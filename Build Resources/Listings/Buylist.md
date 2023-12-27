@@ -24,9 +24,20 @@
 | Fasteners     | M5x30 BHCS            | ISO 7380-1 |           |           |            |          |          |          |          |
 | Fasteners     | M5x40 BHCS            | ISO 4762 / DIN 912 |           |           |            |          |          |          |   |
 | Fasteners     | M8x16 BHCS            | ISO 7380  |           |           |            |          |          |          |   |
-| Fasteners     |           |           |           |           |            |          |          |          |   |
-| Fasteners     |           |           |           |           |            |          |          |          |   |
-| Fasteners     |           |           |           |           |            |          |          |          |   |
-|          |           |           |           |           |            |          |          |          |   |
-|          |           |           |           |           |            |          |          |          |   |
-|          |           |           |           |           |            |          |          |          |   |
+| Fasteners     | M3 T-nut 2020         |           |           |           |            |          |          |          |   |
+| Fasteners     | M3 T-nut 3030         |           |           |           |            |          |          |          |   |
+| Fasteners     | M5 T-nut 2020         |           |           |           |            |          |          |          |   |
+| Fasteners     | M5 T-nut 3030         |           |           |           |            |          |          |          |   |
+| Frame         | 3060 x 520mm          |           | 2         |           |            |          |          | HFSB6-3060-520-AH105-BH415-AV180 |   |
+| Frame         | 3030 x 400mm          |           | 2         |           |            |          |          | HFSB6-3030-400-TPW |   |
+| Frame         | 3030 x 360mm          |           | 1         |           |            |          |          | HFSB6-3030-360-LCH-RCH |   |
+| Frame         | 3030 x 300mm          |           | 2         |           |            |          |          | HFSB6-3030-300-TPW |   |
+| Frame         | 2020 x 340mm          |           | 1         |           |            |          |          | HFSB5-2020-340-AH15-BH325 |   |
+| Frame         | 2020 x 340mm          |           | 1         |           |            |          |          | HFSB5-2020-340 |   |
+| Motion        |           |           |           |           |            |          |          |          |   |
+| Motion        |           |           |           |           |            |          |          |          |   |
+| Motion        |           |           |           |           |            |          |          |          |   |
+| Motion        |           |           |           |           |            |          |          |          |   |
+| Motion        |           |           |           |           |            |          |          |          |   |
+| Motion        |           |           |           |           |            |          |          |          |   |
+| next        |           |           |           |           |            |          |          |          |   |
