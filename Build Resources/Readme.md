@@ -12,10 +12,10 @@ Things like Bearings and motors are an item where quality or longevity are impor
 
 
 
-| Size          | length        | price each    | price 10      | Price 100     | Seller        |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Cat        | Component        | Standard    | Quantity     | 1st choice    | Altrernate  | Alt 2 | Alt 3 | Notes |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| Content   | Content   | Content   | Content   | Content   | Content   |
+| Content   | Content   | Content  | Content  | Content   | Content   |
 |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |
