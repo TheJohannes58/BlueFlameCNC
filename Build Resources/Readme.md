@@ -12,28 +12,28 @@ Things like Bearings and motors are an item where quality or longevity are impor
 
 
 
-| Cat        | Component        | Standard    | Quantity     | 1st choice    | Altrernate  | Alt 2 | Alt 3 | Notes |
+| Category  | Component  | Standard  | Quantity  | 1st choice   | Altrernate  | Alt 2 | Alt 3 | Notes | Other |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| Content   | Content   | Content   | Content   | Content   | Content   |
-| Content   | Content   | Content  | Content  | Content   | Content   |
-|   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
+| Content   | Content   | Content   | Content   | Content   | Content   |Content   |Content   |Content   |Content   |
+| Content   | Content   | Content   | Content   | Content   | Content   |Content   |Content   |Content   |Content   |
+|        |            |           |         |        |          |       |      |      |       |
+|        |            |           |         |        |          |       |      |      |       |
+|        |            |           |         |        |          |       |      |      |       |
+|        |            |           |         |        |          |       |      |      |       |
+|        |            |           |         |        |          |       |      |      |       |
+|        |            |           |         |        |          |       |      |      |       |
+|        |            |           |         |        |          |       |      |      |       |
+|        |            |           |         |        |          |       |      |      |       |
+|        |            |           |         |        |          |       |      |      |       |
+|        |            |           |         |        |          |       |      |      |       |
+|        |            |           |         |        |          |       |      |      |       |
+|        |            |           |         |        |          |       |      |      |       |
+|        |            |           |         |        |          |       |      |      |       |
+|        |            |           |         |        |          |       |      |      |       |
+|        |            |           |         |        |          |       |      |      |       |
+|        |            |           |         |        |          |       |      |      |       |
+|        |            |           |         |        |          |       |      |      |       |
+|        |            |           |         |        |          |       |      |      |       |
 |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |
