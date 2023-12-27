@@ -9,3 +9,10 @@ Things like Bearings and motors are an item where quality or longevity are impor
 [**Bolt Depot**](https://www.boltdepot.com/)
 
 [**McMaster Carr**](https://www.mcmaster.com/)
+
+
+
+| Size          | length        | price each    | price 10      | Price 100     | Seller        |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
