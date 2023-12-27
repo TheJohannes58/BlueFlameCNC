@@ -1,8 +1,8 @@
 ![Screws](images/screws.jpg)
 ## Build Resources Guide
-There are times where quality overrides price.
-And are times where it will be more economical to buy a larger quantity of an item. Spare parts can be beneficial at times. 
-Things like Bearings and motors need to come from quality suppliers. Machines that are not working produce nothing and no money! Make compromises accordingly...
+There are times where quality matters more than price.
+And are times where it will be more cost effective to buy a larger quantity of an item. And when you have spare parts, they might be good to have latter on.
+Things like Bearings and motors are an item where quality or longevity are important. Machines that are not working produce nothing and therefore generate no income! Make compromises accordingly...
 
 **Fasteners**
 
