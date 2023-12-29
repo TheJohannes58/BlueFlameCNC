@@ -1,6 +1,6 @@
 # Extruded Aluminum Profiles
-There are many styles and sizes available. ![-]( images/misumi_alu_prof.png)
 
+There are many styles and sizes available. ![-]( images/misumi_alu_prof.png)
 
 There are many styles and sizes available. ![-]( /images/misumi_alu-prof.png)
 
