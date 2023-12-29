@@ -1,6 +1,6 @@
 # Hardware Kits & sourcing 
 
-## Voron Switchwire
+## [Voron Switchwire](https://lecktor.com/en/voron-sw/489-voron-sw-hardware-kit-black.html "VRN-SW-HRDWR-KIT")
 [Voron SW Hardware Kit (Black)](https://lecktor.com/en/voron-sw/489-voron-sw-hardware-kit-black.html "VRN-SW-HRDWR-KIT")
 
 <img src="../images/VRN-SW-HRDWR-KIT.jpg" width=480 height=480 />
