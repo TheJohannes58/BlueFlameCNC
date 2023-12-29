@@ -1,0 +1,1 @@
+https://lecktor.com/en/voron-sw/489-voron-sw-hardware-kit-black.html
