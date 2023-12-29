@@ -4,7 +4,7 @@
 
 ![-]( ../images/VRN-SW-HRDWR-KIT.jpg)
 
-crews
+Screws
   * ISO 7380-1 M8x16 screw (10.9 hardened steel) - 8pcs
   * DIN912 M5x40 screw (12.9 hardened steel) - 6pcs
   * ISO 7380-1 M5x30 screw (10.9 hardened steel) - 5pcs
@@ -27,7 +27,7 @@ Spacers and nuts
   * DIN934 M3 nut (8.8 low carbon boron steel) - 3pcs
   * Threaded inserts (M3x5x4) - 54pcs
   * Shim ring (5x10x1.0mm) - 19pcs
-  * Heated spacers (6x6x3mm) - 9pcs
+  * Heater spacers (6x6x3mm) - 9pcs
 
 Spare parts
   * DIN934 M3 nut (8.8 low carbon boron steel) - 2pcs
@@ -47,6 +47,4 @@ or separately:
   * HNTAJ6-3 nut - 12pcs
   * HNTAJ6-5 nut - 52pcs
 
-NB! This nuts are not included in the Hardware kit
-
-![-]( ../images/VRN-SW-HRDWR-KIT.jpg)
+Note! These T-nuts are not included in the kit
