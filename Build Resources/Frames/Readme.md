@@ -1,6 +1,6 @@
 # Extruded Aluminum Profiles
 
-There are many styles and sizes available. ![-]( images/misumi_alu_prof.png)
+There are many styles and sizes available. ![-]( images/misumi_alu-prof.png)
 
 <d1>
     <dd>Compiled here are several sites that offer kits that come pre-cut, drilled and tapped as needed.</dd>
