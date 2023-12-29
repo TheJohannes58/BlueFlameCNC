@@ -2,8 +2,6 @@
 
 There are many styles and sizes available. ![-]( images/misumi_alu-prof.png)
 
-There are many styles and sizes available. ![-]( /images/misumi_alu-prof.png)
-
 <d1>
     <dd>Compiled here are several sites that offer kits that come pre-cut, drilled and tapped as needed.</dd>
     <dd>It is possible to buy extrusions and do the work, but it may prove expensive due to broken taps and mis-cuts...</dd>
