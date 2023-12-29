@@ -1,9 +1,9 @@
 # Hardware Kits & sourcing 
 
-## [Voron Switchwire](https://lecktor.com/en/voron-sw/489-voron-sw-hardware-kit-black.html "VRN-SW-HRDWR-KIT")
-[Voron SW Hardware Kit (Black)](https://lecktor.com/en/voron-sw/489-voron-sw-hardware-kit-black.html "VRN-SW-HRDWR-KIT")
+## Voron Switchwire
+[Voron SW Hardware Kit (Black)](https://lecktor.com/en/voron-sw/489-voron-sw-hardware-kit-black.html )
 
-<img src="../images/VRN-SW-HRDWR-KIT.jpg" width=480 height=480 />
+<img src="../images/VRN-SW-HRDWR-KIT.jpg" width=480 height=480 title="VRN-SW-HRDWR-KIT" />
 
 Screws
   * ISO 7380-1 M8x16 screw (10.9 hardened steel) - 8pcs
@@ -48,4 +48,8 @@ or separately:
   * HNTAJ6-3 nut - 12pcs
   * HNTAJ6-5 nut - 52pcs
 
-Note! These T-nuts are not included in the kit
+Note! These T-nuts are not included in the kit. see below
+
+## Voron SW T-Nuts
+[Voron SW T-nut Kit ](https://lecktor.com/en/nuts/692-voron-sw-t-nuts.html )
+<img src="../images/ VRN-SW-TNUTS.png" width=480 height=480 title="VRN-SW-TNUTS" />
