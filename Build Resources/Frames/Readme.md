@@ -1,4 +1,4 @@
-#Extruded Aluminum Profiles
+# Extruded Aluminum Profiles
 <d1>
     <dd>There are many styles and sizes available.</dd>
     <dd>Compiled here are several sites that offer kits that come pre-cut, drilled and tapped as needed.</dd>
