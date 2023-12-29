@@ -4,6 +4,8 @@
 
 ![-]( ../images/VRN-SW-HRDWR-KIT.jpg)
 
+<img src="../images/VRN-SW-HRDWR-KIT.jpg" width=480 height=480 />
+
 Screws
   * ISO 7380-1 M8x16 screw (10.9 hardened steel) - 8pcs
   * DIN912 M5x40 screw (12.9 hardened steel) - 6pcs
