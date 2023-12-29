@@ -1,9 +1,10 @@
 Category,Description,Qty,Notes
 Frame,3060 Extrusion - 520mm,2,HFSB6-3060-520-AH105-BH415-AV180
-,3030 Extrusion - 300mm,2,HFSB6-3030-300-TPW
-,3030 Extrusion - 360mm,1,HFSB6-3030-360-LCH-RCH
 ,3030 Extrusion - 400mm,2,HFSB6-3030-400-TPW
-,2020 Extrusion - 340mm,2,HFSB5-2020-340-AH15-BH325
+,3030 Extrusion - 360mm,1,HFSB6-3030-360-LCH-RCH
+,3030 Extrusion - 300mm,2,HFSB6-3030-300-TPW
+,2020 Extrusion - 340mm,1,HFSB5-2020-340-AH15-BH325
+,2020 Extrusion -340mm,1,HFSB5-2020-340
 Fasteners,M2x10 Self-tapping Screw,8,
 ,M3 Threaded Insert,54,
 ,M3 Hexnut,3,
