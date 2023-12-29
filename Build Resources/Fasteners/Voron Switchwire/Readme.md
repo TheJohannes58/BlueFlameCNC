@@ -1,7 +1,7 @@
 # Hardware Kits & sourcing 
 
 ## Voron Switchwire
-[Voron SW Hardware Kit (Black)](https://lecktor.com/en/voron-sw/489-voron-sw-hardware-kit-black.html ) <span style=text-decoration-line: line-through;> €39.95</span> - now €29.96 
+[Voron SW Hardware Kit (Black)](https://lecktor.com/en/voron-sw/489-voron-sw-hardware-kit-black.html ) <s> €39.95</s> - €29.96 
 
 <img src="../images/VRN-SW-HRDWR-KIT.jpg" width=480 height=480 title="VRN-SW-HRDWR-KIT" />
 
@@ -51,6 +51,6 @@ or separately:
 Note! These T-nuts are not included in the kit. see below
 
 ## Voron SW T-Nuts
-[Voron SW T-nut Kit ](https://lecktor.com/en/nuts/692-voron-sw-t-nuts.html) €37.46 
+[Voron SW T-nut Kit ](https://lecktor.com/en/nuts/692-voron-sw-t-nuts.html) <s>€49.95</s> - €37.46 
 
 <img src="../images/VRN-SW-TNUTS.png" width=480 height=480 title="VRN-SW-TNUTS" />
