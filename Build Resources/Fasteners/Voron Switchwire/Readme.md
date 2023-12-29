@@ -3,7 +3,7 @@
 ## Voron Switchwire
 [Voron SW Hardware Kit (Black)](https://lecktor.com/en/voron-sw/489-voron-sw-hardware-kit-black.html )
 
-<img src="../images/VRN-SW-HRDWR-KIT.jpg" width=480 height=480 title="VRN-SW-HRDWR-KIT" />
+<img src="../images/VRN-SW-HRDWR-KIT.jpg" width=480 height=480 title="VRN-SW-HRDWR-KIT" /> €29.96 
 
 Screws
   * ISO 7380-1 M8x16 screw (10.9 hardened steel) - 8pcs
@@ -51,6 +51,6 @@ or separately:
 Note! These T-nuts are not included in the kit. see below
 
 ## Voron SW T-Nuts
-[Voron SW T-nut Kit ](https://lecktor.com/en/nuts/692-voron-sw-t-nuts.html)
+[Voron SW T-nut Kit ](https://lecktor.com/en/nuts/692-voron-sw-t-nuts.html) €37.46 
 
 <img src="../images/ VRN-SW-TNUTS.png" width=480 height=480 title="VRN-SW-TNUTS" />
