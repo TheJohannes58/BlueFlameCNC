@@ -1,5 +1,6 @@
 
 # Misumi VORON Switchwire Frame, black €99.99
+*Out of stock at times...*
 ![Voron Switchwire](https://raw.githubusercontent.com/TheJohannes58/BlueFlameCNC/main/Build%20Resources/Frames/images/vsw-frame-250.png)
  ## Product information "Misumi VORON Switchwire Frame, black" 
  Misumi VORON frame kits contain all needed aluminium extrusions, machined to spec (holes and tapped ends)
