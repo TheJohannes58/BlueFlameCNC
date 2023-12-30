@@ -45,4 +45,3 @@ Voron SW frame (Misumi Numbers)
 * HFS6-3030-360-LCH-RCH - 1pcs
 * HFS6-3030-300-TPW - 2pcs
 * HFS5-2020-340-AH15-BH325 - 2pcs
-*
