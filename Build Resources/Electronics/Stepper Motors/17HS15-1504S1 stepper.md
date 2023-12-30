@@ -27,9 +27,10 @@ Physical Specification
 
 
 Connection
-| A+ | A- | B+| B- |
+| A+ | A- | B+ | B- |
+|----|----|----|----|
 | Black | Green | Red | Blue |
 	
 Resources
 
-    Full Datasheet: ![17HS15-1504S1.pdf](https://www.omc-stepperonline.com/download/17HS15-1504S1.pdf)
+    Full Datasheet: [17HS15-1504S1.pdf](https://www.omc-stepperonline.com/download/17HS15-1504S1.pdf)
