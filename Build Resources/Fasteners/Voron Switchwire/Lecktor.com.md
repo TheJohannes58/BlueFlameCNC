@@ -1,4 +1,4 @@
-# Hardware Kits & sourcing 
+# Lecktor.com Hardware Kits & sourcing 
 
 ## Voron Switchwire
 [Voron SW Hardware Kit (Black)](https://lecktor.com/en/voron-sw/489-voron-sw-hardware-kit-black.html ) <s> €39.95</s> - €29.96 
