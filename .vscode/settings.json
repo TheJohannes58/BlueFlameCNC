@@ -13,5 +13,9 @@
         "Switchwire",
         "uncrustify",
         "Voron"
-    ]
+    ],
+    "csv-edit.autoColumnWidthsIgnoreComments": true,
+    "csv-edit.disableBorders": false,
+    "csv-edit.doubleClickRowHandleForcedHeight": 102,
+    "csv-edit.doubleClickColumnHandleForcedWith": 100
 }
