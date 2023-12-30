@@ -36,8 +36,8 @@ T-nuts
   * HNTAJ6-3 nut - 12pcs
   * HNTAJ6-5 nut - 52pcs
 
-Flanged bearing F695-2RS
-  * 5x13x4mm - 20 pcs
+Flanged bearings 
+  * F695-2RS 5x13x4mm - 20 pcs
 
 Voron SW frame (Misumi Numbers)
 * HFS6-3060-520-AV180-AH105-BH415 - 2pcs
