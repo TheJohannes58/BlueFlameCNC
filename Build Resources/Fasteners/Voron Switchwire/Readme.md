@@ -1,9 +1,9 @@
 # Hardware Kits & sourcing 
 
-## Voron Switchwire
-[Voron SW Hardware Kit (Black)](https://lecktor.com/en/voron-sw/489-voron-sw-hardware-kit-black.html ) <s> €39.95</s> - €29.96 
+[Lecktor.com](https://lecktor.com/en/)  
+Did a shipping calculation to see if the cost was reasonable considering the location of shipment and together with good prices an availabilty, I would say this is a viable option!
 
-<img src="../images/VRN-SW-HRDWR-KIT.jpg" width=480 height=480 title="VRN-SW-HRDWR-KIT" />
+## Voron Switchwire hardware list
 
 Screws
   * ISO 7380-1 M8x16 screw (10.9 hardened steel) - 8pcs
@@ -30,33 +30,19 @@ Spacers and nuts
   * Shim ring (5x10x1.0mm) - 19pcs
   * Heater spacers (6x6x3mm) - 9pcs
 
-Spare parts
-  * DIN934 M3 nut (8.8 low carbon boron steel) - 2pcs
-  * Threaded inserts (M3x5x4) - 5pcs
-  * Shim ring (5x10x1.0mm) - 2pcs
-  * ISO 7380-1 M8x16 screw (10.9 hardened steel) - 1pcs
-  * ISO 7380-1 M5x10 screw (10.9 hardened steel) - 5pcs
-  * DIN912 M3x30 screw (12.9 hardened steel) - 2pcs
-  * DIN912 M3x8 screw (12.9 hardened steel) - 5pcs
-  * Self tapping screw M2x10 (blackened steel) - 5pcs
-
-Additionally SW build will require following parts:
-  * Voron SW T-Nuts as a kit
-or separately:
+T-nuts
   * HNTAJ5-3 nut - 13pcs
   * HNTAJ5-5 nut - 12pcs
   * HNTAJ6-3 nut - 12pcs
   * HNTAJ6-5 nut - 52pcs
 
-Note! These T-nuts are not included in the kit. see below
+Flanged bearing F695-2RS
+  * 5x13x4mm - 20 pcs
 
-## Voron SW T-Nuts
-[Voron SW T-nut Kit ](https://lecktor.com/en/nuts/692-voron-sw-t-nuts.html) <s>€49.95</s> - €37.46 
-
-<img src="../images/VRN-SW-TNUTS.png" width=480 height=480 title="VRN-SW-TNUTS" />
-
-### Kit contents
-* HNTAJ5-3 nut - 13pcs
-* HNTAJ5-5 nut - 12pcs
-* HNTAJ6-3 nut - 12pcs
-* HNTAJ6-5 nut - 52pcs
+Voron SW frame (Misumi Numbers)
+* HFS6-3060-520-AV180-AH105-BH415 - 2pcs
+* HFS6-3030-400-TPW - 2pcs
+* HFS6-3030-360-LCH-RCH - 1pcs
+* HFS6-3030-300-TPW - 2pcs
+* HFS5-2020-340-AH15-BH325 - 2pcs
+*
