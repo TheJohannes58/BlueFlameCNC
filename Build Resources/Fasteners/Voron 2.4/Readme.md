@@ -61,13 +61,19 @@ Additionally V2.4 build will require following parts:
 
 Note! These T-nuts are not included in the kit. see below
 
-## Voron SW T-Nuts
-[Voron SW T-nut Kit ](https://lecktor.com/en/nuts/692-voron-sw-t-nuts.html) <s>€49.95</s> - €37.46 
+## Voron V2.4 T-nuts
+[Voron V2.4 T-nuts](https://lecktor.com/en/v2x-fasteners/785-voron-v24-t-nuts.html)  €33.29
 
-<img src="../images/VRN-SW-TNUTS.png" width=480 height=480 title="VRN-SW-TNUTS" />
+<img src="../images/VRN-V24-TNUTS.jpg" width=480 height=480 title="VRN-V24-TNUTS" />
 
 ### Kit contents
-* HNTAJ5-3 nut - 13pcs
-* HNTAJ5-5 nut - 12pcs
-* HNTAJ6-3 nut - 12pcs
-* HNTAJ6-5 nut - 52pcs
+* HNTAJ5-3 nut - 123pcs
+* HNTAJ5-5 nut - 63pcs
+
+## Hammer head M3 nuts (50 pcs)
+[Hammer head M3 nuts ](https://lecktor.com/en/nuts/265-hammer-head-m3-nuts-50-pcs-00265.html)   €5.79
+
+
+<img src="../images/MCH-NT-HH-M3-50jpg" width=480 height=480 title="MCH-NT-HH-M3-50" />
+
+
