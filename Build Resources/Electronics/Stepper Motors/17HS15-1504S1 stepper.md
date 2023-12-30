@@ -4,8 +4,7 @@
 
 This bipolar Nema 17 stepper motor with step angle 1.8deg and size 42x42x39mm. It has 4 wires, each phase draws current 1.50A, with holding torque 45Ncm(63.74oz.in).
 
-Electrical Specification
-
+Electrical Specification  
     *  Manufacturer Part Number: 17HS15-1504S1
     *  Motor Type: Bipolar Stepper
     *  Step Angle: 1.8deg
@@ -14,8 +13,7 @@ Electrical Specification
     *  Phase Resistance: 2.3ohms
     *  Inductance: 4.4mH±20%(1KHz)
 
-Physical Specification
-
+Physical Specification  
     *  Frame Size: 42 x 42mm
     *  Body Length: 39mm
     *  Shaft Diameter: Φ5mm
