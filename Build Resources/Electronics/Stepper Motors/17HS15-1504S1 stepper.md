@@ -1,5 +1,7 @@
 # Nema 17 Bipolar 45Ncm(63.74oz.in) 1.5A 42x42x39mm
 
+## Stepperonline.com
+
 <img src="../images/17HS15-1504S1.webp" width=480 height=480 title="foto" />
 
 This bipolar Nema 17 stepper motor with step angle 1.8deg and size 42x42x39mm. It has 4 wires, each phase draws current 1.50A, with holding torque 45Ncm(63.74oz.in).
