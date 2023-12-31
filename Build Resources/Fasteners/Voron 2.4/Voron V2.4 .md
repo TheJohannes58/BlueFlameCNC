@@ -3,7 +3,7 @@
 ## Voron V2.4 Hardware Kit (Black)
 [Voron V2.4 Hardware Kit (Black)](https://lecktor.com/en/v2x-fasteners/488-voron-v24-hardware-kit-black-00488.html)  €38.29
 
-<img src="../images/VRN-24-HRDWR-KIT-BLK.jpg" width=480 height=480 title="VRN-24-HRDWR-KIT-BLK" />
+<img src="../images/VRN-24-HRDWR-KIT-BLK.webp" width=480 height=480 title="VRN-24-HRDWR-KIT-BLK" />
 
 
 

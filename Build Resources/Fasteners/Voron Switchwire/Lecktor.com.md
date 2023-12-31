@@ -2,7 +2,7 @@
 ## Voron Switchwire  
 [Voron SW Hardware Kit (Black)](https://lecktor.com/en/voron-sw/489-voron-sw-hardware-kit-black.html ) <s> €39.95</s> - €29.96 
  
-<img src="../images/VRN-SW-HRDWR-KIT.jpg" width=480 height=480 title="VRN-SW-HRDWR-KIT" />
+<img src="../images/VRN-SW-HRDWR-KIT.webp" width=480 height=480 title="VRN-SW-HRDWR-KIT" />
 
 Screws
   * ISO 7380-1 M8x16 screw (10.9 hardened steel) - 8pcs
