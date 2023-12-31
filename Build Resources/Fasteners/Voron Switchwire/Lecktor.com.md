@@ -53,7 +53,7 @@ Note! These T-nuts are not included in the kit. see below
 ## Voron SW T-Nuts
 [Voron SW T-nut Kit ](https://lecktor.com/en/nuts/692-voron-sw-t-nuts.html) <s>€49.95</s> - €37.46 
 
-<img src="../images/VRN-SW-TNUTS.png" width=480 height=480 title="VRN-SW-TNUTS" />
+<img src="../images/VRN-SW-TNUTS.webp" width=480 height=480 title="VRN-SW-TNUTS" />
 
 ### Kit contents
 * HNTAJ5-3 nut - 13pcs

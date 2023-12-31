@@ -63,7 +63,7 @@ Note! These T-nuts are not included in the kit. see below
 ## Voron V2.4 T-nuts
 [Voron V2.4 T-nuts](https://lecktor.com/en/v2x-fasteners/785-voron-v24-t-nuts.html)  €33.29
 
-<img src="../images/VRN-V24-TNUTS.jpg" width=480 height=480 title="VRN-V24-TNUTS" />
+<img src="../images/VRN-V24-TNUTS.webp" width=480 height=480 title="VRN-V24-TNUTS" />
 
 ### Kit contents
 * HNTAJ5-3 nut - 123pcs
@@ -73,6 +73,6 @@ Note! These T-nuts are not included in the kit. see below
 [Hammer head M3 nuts ](https://lecktor.com/en/nuts/265-hammer-head-m3-nuts-50-pcs-00265.html)   €5.79
 
 
-<img src="../images/MCH-NT-HH-M3-50.jpg" width=480 height=480 title="MCH-NT-HH-M3-50" />
+<img src="../images/MCH-NT-HH-M3-50.webp" width=480 height=480 title="MCH-NT-HH-M3-50" />
 
 
