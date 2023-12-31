@@ -5,8 +5,7 @@
 
 <img src="../images/VRN-24-HRDWR-KIT-BLK.webp" width=480 height=480 title="VRN-24-HRDWR-KIT-BLK" />
 
-
-
+Kit Contents  
 Screws
   * DIN912 M5x40 screw (12.9 hardened steel) - 25pcs
   * ISO 7380-1 M5x30 screw (10.9 hardened steel) - 22pcs

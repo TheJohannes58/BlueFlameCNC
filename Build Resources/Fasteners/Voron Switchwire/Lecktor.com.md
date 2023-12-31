@@ -4,6 +4,7 @@
  
 <img src="../images/VRN-SW-HRDWR-KIT.webp" width=480 height=480 title="VRN-SW-HRDWR-KIT" />
 
+Kit Contents  
 Screws
   * ISO 7380-1 M8x16 screw (10.9 hardened steel) - 8pcs
   * DIN912 M5x40 screw (12.9 hardened steel) - 6pcs
