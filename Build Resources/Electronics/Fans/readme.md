@@ -1,7 +1,7 @@
 # Fans are cool!
 
 40x40x10 Axial Fan  
-<img src="../images/Gdstime-24V-40x40x10mm.webp" width=350 height=350 title="Fan" />
+<img src="../images/Gdstime-24V-40x40x10mm.webp" width=600 height=350 title="Fan" />
 
 [Link](https://www.aliexpress.us/item/2251832540325686.html?gatewayAdapt=glo2usa4itemAdapt)
 
