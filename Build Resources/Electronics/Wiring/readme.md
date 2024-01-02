@@ -4,16 +4,21 @@
 What is silicone cable used for?  
 The mineral nature of silicone rubber insulation makes the silicone cables uniquely suitable for fire resistant cables required to maintain circuit integrity in the event of a fire. When the cable is in a fire situation a film of fused silica is deposited onto the conductor providing substantial insulation properties.
 
+| Part Name |  Description | Photo | Mfg Part # | Source  |
+|-----------|-----------------------|--------------------------|-----------------------------|-----------------------------|
+| 24AWG Silicone Cable | - Rated voltage: 600V<br> -   Temperature range: -60°C~+200°C<br> - Diameter of each copper wire: 0.08mm | <img src="../images/ali-cable.webp" width=150 height=150 title="Molex" /> | 3256805702676823 | [LD999 Store <br> Aliexpress](https://www.aliexpress.us/item/3256805702676823.html) |
+| 20AWG Silicone Cable | — | — | — | — |
+| 16AWG Silicone Cable | — | — | — | — |
 
-This page lists sources and part numbers for various cable related parts for Voron printers.
-
-Electrical Components
+Conection Components
 ---------------------
 
 ### Connectors
 
-| Part Name | Used In / Description | Photo | Manufacturer Part Number | Source / Source Part Number |
+| Part Name |  Description | Photo | Mfg Part # | Source / Source Part Number |
 |-----------|-----------------------|--------------------------|-----------------------------|-----------------------------|
+| Spade Terminal | Avikrimp Spade Tongue Terminal for 18-22 AWG Wire | <img src="../images/19198-0006.jpg" width=150 height=100 title="Molex" /> | Molex: 191980006 | [Mouser: 538-19198-0006](https://mou.sr/4aEUnQl)<br>[Digikey: 23-0191980006-ND](https://www.digikey.com/en/products/detail/molex/0191980006/279166)<br>[tti: 19198-0006](https://www.ttieurope.com/content/ttieurope/en/apps/part-detail.html?partsNumber=19198-0006) |
+| Quick Connect | Perma-Seal Female Quick Disconnect Receptacle for 18-22 AWG Wire, Tab Size 6.35 x 0.81mm | <img src="../images/19164-0017.jpg" width=150 height=100 title="Molex" /> | Molex: 191980006 | [Mouser: 538-19164-0017 ](https://mou.sr/4aKsQx8)<br>[Digikey: WM18429-ND](https://www.digikey.com/en/products/detail/molex/0191640017/279230)<br>[tti: 19164-0017](https://www.ttieurope.com/content/ttieurope/en/apps/part-detail.html?partsNumber=19164-0017) |
 | 4-pin connector (body) | Micro-Fit 3.0 Receptacle Housing, Single Row, 4 Circuits, UL 94V-0, Black | <img src="../images/43645-0400.webp" width=250 height=150 title="Molex" /> | Molex: 436450400 | [Mouser: 538-43645-0400 ](https://mou.sr/3R7U4pF)<br/>[Digikey: WM1847-ND](https://www.digikey.com/en/products/detail/molex/0436450400/268976)<br/>[TME: MX-70066-0178](https://www.tme.eu/en/details/mx-70066-0178/raster-signal-connectors-2-54mm/molex/50579404/) |
 | 4-pin connector (body) Male pins | Micro-Fit 3.0 Plug Housing, Single Row, 4 Circuits, UL 94V-0, Low-Halogen, Black | <img src="../images/43640-0401.webp" width=250 height=150 title="Molex" /> | Molex: 436400401 | [Mouser: 538-43640-0401](https://mou.sr/4aAoubL)<br/>[Digikey: WM1857-ND](https://www.digikey.com/en/products/detail/molex/0436400401/268986)<br/>[TME: MX-43640-0401](https://www.tme.eu/en/details/mx-43640-0401/raster-signal-connectors-3-00mm/molex/436400401/) |
 | 3-pin connector (body) | Micro-Fit 3.0 Receptacle Housing, Single Row, 3 Circuits, UL 94V-0, Low-Halogen, Black | <img src="../images/43645-0300.webp" width=250 height=150 title="Molex" /> | Molex: 436450300 | [Mouser: 538-43645-0300](https://mou.sr/3Y9esH9)<br/>[Digikey: WM1846-ND](https://www.digikey.com/en/products/detail/molex/0436450300/268975)<br/>[TME: MX-43645-0300](https://www.tme.eu/en/details/mx-43645-0300/raster-signal-connectors-3-00mm/molex/436450300/) |
@@ -29,29 +34,14 @@ Electrical Components
 | 2/3/4/5/6 Pin (Kit) | JST-XH Plug Kit, 2.54 mm Pin Male and Female Adapter Cable Male Female 2.54 mm Female Metal Pin Connector, 22-28 AWG | <img src="../images/JST-XH-kit.jpg" width=250 height=150 title="Molex" /> | JST XH | [JST-XH Plug Kit](https://www.amazon.com/Connector-Housing-Adapter-Terminal-Connectors/dp/B0BZDCGJ32/ref=sr_1_3?keywords=JST-XH+Plug+Kit&qid=1704224672&sr=8-3)|
 
 
-### Fans and Blowers
 
-| Part Name | Used In / Description | Specification | Manufacture Part Number | Source / Source Part Number |
-|-----------|-----------------------|---------------|-------------------------|-----------------------------|
-| Noctua fan      | Hotend fan            | - 5V<br>- 0.05A<br>- 4500 RPM<br>- Size: 40x40x10 mm<br>- Mounting hole spacing: 32x32 mm<br>- Airflow: 8,2 m³/h (4.83 CFM)<br>- Static Pressure: 1,78 mm H₂O | Noctua NF-A4x10 5V | [Noctua website](https://noctua.at/en/products/fan/nf-a4x10-flx) |
-| 5015 Blower fan | Nozzle fan            | - 5V<br>- 0.30A<br>- 4500 RPM<br>- Size: 50x50x15 mm<br>- Mounting hole spacing: 38x43 mm<br>- Airflow: 3.8 CFM                                                | ?                  | ?                                                |
 
 
 ### Heated Bed
 
 | Part Name | Used In / Description | Specification | Manufacture Part Number | Source / Source Part Number |
 |-----------|-----------------------|---------------|-------------------------|-----------------------------|
-| Magnets   | Magnets for MK52 heated bed | -   Neodymium Material Type: N35UH<br>-   Size: 20x6x2.3 mm<br>-   Hole depth in MK52: 2.5-2.7 mm<br>-   Maximum Operating Temp: 180°C   | ?                       | ?                           |
-
-
-
-### Power Supply
-
-| Part Name | Used In / Description | Specification | Manufacturer Part Number | Source / Source Part Number |
-|-----------|-----------------------|---------------|--------------------------|-----------------------------|
-| Delta PSU 24V 320W | Compatible PSU for MK3 | 24V 320W | Delta PMF-24V320WCAB | [Delta website](http://www.deltapsu.com/products/panel-mount-power-supply/PMF-24V320WCGB) |
-| Mean Well PSU 24V 320W | Compatible PSU for MK3| 24V 320W | Mean Well SP-320-24 | [Mean Well website](https://www.meanwell.com/webapp/product/search.aspx?prod=SP-320) |
-
+| Magnets | Magnets for MK52 heated bed | - Neodymium Material Type: N35UH<br>- Size: 20x6x2.3 mm<br>- Hole depth in MK52: 2.5-2.7 mm<br>- Maximum Operating Temp: 180°C | ? | ? |
 
 ### Power Cables and Connectors
 

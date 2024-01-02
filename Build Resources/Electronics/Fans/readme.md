@@ -1,5 +1,12 @@
 # Fans are cool!
 
+### Fans and Blowers
+
+| Part Name | Used In / Description | Specification | Manufacture Part Number | Source / Source Part Number |
+|-----------|-----------------------|---------------|-------------------------|-----------------------------|
+| No tua fan      | Hotend fan            | - 5V<br>- 0.05A<br>- 4500 RPM<br>- Size: 40x40x10 mm<br>- Mounting hole spacing: 32x32 mm<br>- Airflow: 8,2 m³/h (4.83 CFM)<br>- Static Pressure: 1,78 mm H₂O | Noctua NF-A4x10 5V | [Noctua website](x) |
+| 5015 Blower fan | Nozzle fan            | - 5V<br>- 0.30A<br>- 4500 RPM<br>- Size: 50x50x15 mm<br>- Mounting hole spacing: 38x43 mm<br>- Airflow: 3.8 CFM | ? | ? |
+
 ### Axial Fans
 | 40x40x10 Axial Fan | Gdstime DC 24V 60x60x20mm Axial 3D Printer Cooling Fan   |
 |-----|-----|
