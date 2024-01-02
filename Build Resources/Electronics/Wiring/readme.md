@@ -33,23 +33,19 @@ Conection Components
 | 2-pin connector (body) | 2.50mm Pitch, Receptacle Crimp Housing, Single Row, Friction Lock, 2 Circuits, 22-28 AWG | <img src="../images/XHP-2.jpg" width=250 height=150 title="Molex" /> | XHP-2 | [TTI Europe: XHP-2](https://www.ttieurope.com/content/ttieurope/en/apps/part-detail.html?partsNumber=XHP-2&mfgShortname=JST&productId=483198098&minQty=1000)<br/>[DigiKey: XHP-2](https://www.digikey.com/en/products/detail/jst-sales-america-inc/XHP-2/555485)<br/>[TME: XHP-2](https://www.tme.eu/en/details/xhp-2/raster-signal-connectors-2-50mm/jst/) |
 | 2/3/4/5/6 Pin (Kit) | JST-XH Plug Kit, 2.54 mm Pin Male and Female Adapter Cable Male Female 2.54 mm Female Metal Pin Connector, 22-28 AWG | <img src="../images/JST-XH-kit.jpg" width=250 height=150 title="Molex" /> | JST XH | [JST-XH Plug Kit](https://www.amazon.com/Connector-Housing-Adapter-Terminal-Connectors/dp/B0BZDCGJ32/ref=sr_1_3?keywords=JST-XH+Plug+Kit&qid=1704224672&sr=8-3)|
 
-
-
-
-
 ### Heated Bed
 
-| Part Name | Used In / Description | Specification | Manufacture Part Number | Source / Source Part Number |
+| Part Name |  Description | Photo | Mfg Part # | Source / Source Part Number |
 |-----------|-----------------------|---------------|-------------------------|-----------------------------|
 | Magnets | Magnets for MK52 heated bed | - Neodymium Material Type: N35UH<br>- Size: 20x6x2.3 mm<br>- Hole depth in MK52: 2.5-2.7 mm<br>- Maximum Operating Temp: 180°C | ? | ? |
 
-### Power Cables and Connectors
+### Power Connection
 
 Always get known brand from reliable source for those parts, they are critical and might be dangerous if not correctly manufactured.
 
-| Part Name | Used In / Description | Specification | Manufacturer Part Number | Source / Source Part Number |
-|-----------|-----------------------|---------------|--------------------------|-----------------------------|
-| 115/230 VAC Cables | PSU | 16 AWG or 1.5mm<sup>2</sup> | | | |
+| Part Name |  Description | Photo | Mfg Part # | Source / Source Part Number |
+|-----------|-------------------------|-----------------|--------------------------|-----------------------------|
+| Power Inlet<br> Combination consists<br> of appliance plug, 2-pole<br> rocker switch and fuse holder. | - Number of poles: 2 + PE<br> - Continuous current: 10A<br> - Fuse holder: 6.3A<br> - Rated voltage: 250V AC<br> - With rocker switch and fuse holder<br> - Connection by flat cable plug 4.8mm<br> - Snap-in assembly | <img src="../images/KB-INLET-10A.webp" width=250 height=150 title="Molex" /> | 59JR-1011FR |[ Fermio Labs: KB-INLET-10A](https://fermio.xyz/k-b/power-inlet-iec-60320/) | 
 | 12/24 VDC Cables | PSU to Rambo/Einsy | 14 AWG or 2mm<sup>2</sup> | | | |
 | Terminal Quick Connects Connector | Power plug, Power switch | -   16 AWG<br>-   Tab width: 6.35mm (according to your power plug and switch connectors)<br>-   Fully insulated | | [Digikey](https://www.digikey.com/products/en/connectors-interconnects/terminals-quick-connects-quick-disconnect-connectors/392?k=&pkeyword=&pv1048=20&sf=0&FV=fff40016%2Cfff8041a%2C740002%2C1380087%2C13800b1%2C1380004%2C1380236%2C170000c%2C1700004%2C1700007%2C1f140000%2Cffe00188%2Cfffc0115&quantity=&ColumnSort=0&page=1&pageSize=25) |
 | Terminal Spade Connector 115/230 VAC | PSU (115/230 VAC) | -   16 AWG<br>-   Flanged terminal type<br>-   #6 Stud/Tab size<br>-   Insulated<br>-   Spade width: 6.35 to 8mm | | [Digikey](https://www.digikey.com/products/en/connectors-interconnects/terminals-spade-connectors/391?k=&pkeyword=&pv78=191&sf=0&FV=fff40016%2Cfff80419%2C1700004%2C4a800ff%2C4ac003b%2Cf88001e%2Cf880024%2Cf88017b%2Cf880185%2Cf880186%2C1f140000%2Cffe00187%2C1380086%2C13800bf&quantity=&ColumnSort=0&page=1&pageSize=25) |
