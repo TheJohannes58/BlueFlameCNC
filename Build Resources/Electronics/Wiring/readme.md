@@ -7,10 +7,10 @@ The mineral nature of silicone rubber insulation makes the silicone cables uniqu
 | Part Name |  Description | Photo | Mfg Part # | Source  |
 |-----------|-----------------------|--------------------------|-----------------------------|-----------------------------|
 | 24AWG Silicone Cable | - Rated voltage: 600V<br> -   Temperature range: -60°C~+200°C<br> - Diameter of each copper wire: 0.08mm | <img src="../images/ali-cable.webp" width=150 height=150 title="Molex" /> | 3256805702676823 | [LD999 Store <br> Aliexpress](https://www.aliexpress.us/item/3256805702676823.html) |
-| 20AWG Silicone Cable | — | — | — | — |
-| 16AWG Silicone Cable | — | — | — | — |
+| 20AWG Silicone Cable | Wire Length :6M / 19.6Ft each color  | Red+Blue+Green+Yellow+Black | — | [striveday: B01LH1FV9A ](https://www.amazon.com/gp/product/B01LH1FV9A/?th=1)  |
+| 16AWG Silicone Cable | — | Red+Black+Green | — | [Aliexpress](https://www.aliexpress.us/item/3256801268521358.html?spm=a2g0o.productlist.main.5.34b320f3FXSyPf&algo_pvid=65f196c7-2c18-43bd-8fd5-1eba33c677d2&aem_p4p_detail=2024010215231311401946493958560001050775&algo_exp_id=65f196c7-2c18-43bd-8fd5-1eba33c677d2-2&pdp_npi=4%40dis%21USD%211.48%211.26%21%21%211.48%21%21%40211b88f017042377934685971e54d1%2112000017883507749%21sea%21US%210%21AB&curPageLogUid=bTXE55USuTf4&search_p4p_id=2024010215231311401946493958560001050775_3) |
 
-Conection Components
+Connection Components
 ---------------------
 
 ### Connectors
@@ -44,8 +44,7 @@ Conection Components
 | Part Name |  Description | Photo | Mfg Part # | Source / Source Part Number |
 |-----------|-------------------------|-----------------|--------------------------|-----------------------------|
 | Power Inlet<br> Combination consists<br> of appliance plug, 2-pole<br> rocker switch and fuse holder. | - Number of poles: 2 + PE<br> - Continuous current: 10A<br> - Fuse holder: 6.3A<br> - Rated voltage: 250V AC<br> - With rocker switch and fuse holder<br> - Connection by flat cable plug 4.8mm<br> - Snap-in assembly | <img src="../images/KB-INLET-10A.webp" width=250 height=250 title="Molex" /> | 59JR-1011FR |[ Fermio Labs: KB-INLET-10A](https://fermio.xyz/k-b/power-inlet-iec-60320/) | 
-| 12/24 VDC Cables | PSU to Rambo/Einsy | 14 AWG or 2mm<sup>2</sup> | | | |
-| Terminal Quick Connects Connector | Power plug, Power switch | -   16 AWG<br>-   Tab width: 6.35mm (according to your power plug and switch connectors)<br>-   Fully insulated | | [Digikey](https://www.digikey.com/products/en/connectors-interconnects/terminals-quick-connects-quick-disconnect-connectors/392?k=&pkeyword=&pv1048=20&sf=0&FV=fff40016%2Cfff8041a%2C740002%2C1380087%2C13800b1%2C1380004%2C1380236%2C170000c%2C1700004%2C1700007%2C1f140000%2Cffe00188%2Cfffc0115&quantity=&ColumnSort=0&page=1&pageSize=25) |
-| Terminal Spade Connector 115/230 VAC | PSU (115/230 VAC) | -   16 AWG<br>-   Flanged terminal type<br>-   #6 Stud/Tab size<br>-   Insulated<br>-   Spade width: 6.35 to 8mm | | [Digikey](https://www.digikey.com/products/en/connectors-interconnects/terminals-spade-connectors/391?k=&pkeyword=&pv78=191&sf=0&FV=fff40016%2Cfff80419%2C1700004%2C4a800ff%2C4ac003b%2Cf88001e%2Cf880024%2Cf88017b%2Cf880185%2Cf880186%2C1f140000%2Cffe00187%2C1380086%2C13800bf&quantity=&ColumnSort=0&page=1&pageSize=25) |
-| Terminal Spade Connector 12/24 VDC | PSU (12/24 VDC), Rambo/Einsy | -   14 AWG<br>-   Flanged terminal type<br>-   #6 Stud/Tab size<br>-   Insulated<br>-   Spade width: 6.35 to 8mm | | [Digikey](https://www.digikey.com/products/en/connectors-interconnects/terminals-spade-connectors/391?k=&pkeyword=&pv994=30&pv994=36&pv994=389&pv994=379&pv994=390&sf=0&FV=fff40016%2Cfff80419%2C1380086%2C13800be%2C1380239%2C1700004%2C4a800ff%2C4ac003b%2C1f140000%2Cffe00187&quantity=&ColumnSort=0&page=1&pageSize=25) |
-| Terminal Ring Connector | Heated bed | -   14 AWG<br>-   M3 Stud/Tab size<br>-   Insulated<br>-   Spade width: 6.35 to 8mm | | [Digikey](https://www.digikey.com/products/en/connectors-interconnects/terminals-ring-connectors/394?k=&pkeyword=&pv299=178&sf=0&FV=fff40016%2Cfff8041c%2C1380086%2C13800be%2C1380003%2C1380211%2Cffe0018a%2C1700004%2C1f140000&quantity=&ColumnSort=0&page=1&pageSize=25) |
+|  |  |  |  |  |  |
+
+
+
