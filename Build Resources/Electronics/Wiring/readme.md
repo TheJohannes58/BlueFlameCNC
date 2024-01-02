@@ -37,7 +37,7 @@ Connection Components
 
 | Part Name |  Description | Photo | Mfg Part # | Source / Source Part Number |
 |-----------|-----------------------|---------------|-------------------------|-----------------------------|
-| Magnets | Magnets for MK52 heated bed | - Neodymium Material Type: N35UH<br>- Size: 20x6x2.3 mm<br>- Hole depth in MK52: 2.5-2.7 mm<br>- Maximum Operating Temp: 180°C | ? | ? |
+| x | x | x | x | x |
 
 ### Power Connection
 
