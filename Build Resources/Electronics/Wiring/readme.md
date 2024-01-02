@@ -20,14 +20,6 @@ Electrical Components
 | Terminal / Pin for keyed connectors | Female terminals (pins) used in 4-pin and 3-pin keyed connectors on the Einsy board.           | Molex: 16-02-0097        | [Mouser: 538-16-02-0097](https://www.mouser.com/ProductDetail/Molex/16-02-0097?qs=sGAEpiMZZMtVoztFdqDXO%252bpSlI4T0Hse)<br/>[DigiKey: WM2513-ND](https://www.digikey.com/products/en?keywords=16-02-0097)<br/>[TME: MX-16-02-0097](https://www.tme.eu/en/details/mx-16-02-0097/raster-signal-connectors-254mm/molex/016020097-70058-0206/)                              |
 
 
-### Motors
-
-| Part Name | Used In / Description | Manufacture Part Number | Source / Source Part Number |
-|-----------|-----------------------|-------------------------|-----------------------------|
-| X,Y,E stepper motor | X, Y, E axis | -  [LDO XYE motor drawing](https://github.com/PrusaOwners/prusa_docs/blob/master/mk3_parts/LDO-42STH38-1004A100CM-RevA-for-3D.pdf)<br>-  [LDO XYE motor specs](https://github.com/PrusaOwners/prusa_docs/blob/master/mk3_parts/LDO_XYE_complete_datasheet.ods)         | LDO-42STH38-1004A100CM-RevA-for-3D |
-| Z stepper motor     | Z axis                        | - [LDO Z motor drawing](https://github.com/PrusaOwners/prusa_docs/blob/master/mk3_parts/LDO-42STH34-1004L321E100CM-RevA-for-3D.pdf)<br>- [LDO Z motor specs](https://github.com/PrusaOwners/prusa_docs/blob/master/mk3_parts/LDO_Z_complete_datasheet.ods) | LDO-42STH34-1004L321E100CM-RevA-for-3D |
-
-
 ### Fans and Blowers
 
 | Part Name | Used In / Description | Specification | Manufacture Part Number | Source / Source Part Number |
@@ -43,13 +35,6 @@ Electrical Components
 | Magnets   | Magnets for MK52 heated bed | -   Neodymium Material Type: N35UH<br>-   Size: 20x6x2.3 mm<br>-   Hole depth in MK52: 2.5-2.7 mm<br>-   Maximum Operating Temp: 180°C   | ?                       | ?                           |
 
 
-### Cable Management
-
-| Part Name | Used In / Description | Specification | Manufacturer Part Number | Source / Source Part Number |
-|-----------|-----------------------|---------------|--------------------------|-----------------------------|
-| Wrap Braided Cable Sleeve | MK52 Heated bed and X-axis stepper | -   Material: Polyester<br>-   Diameter: 5mm<br>-   Length: 300mm                               | HellermannTyton: 170-01000  | [Conrad: 541298](https://www.conrad.com/ce/en/product/541298/HellermannTyton-170-01000-Twist-In-05-Helagaine-Meshwork-Hose-Black) <br/> [AliExpress: Clone](https://www.aliexpress.com/item/Black-Wrap-Braided-Cable-Sleeve-5mm-3m-General-Wire-Pipe-Hose-Indoor-Wiring-Protection-Flexible-Nylon/32839976444.html?spm=a2g0s.9042311.0.0.67ec4c4dzqdKOg) |
-| Wrap Braided Cable Sleeve | Hotend assembly cable bundle       | -   Material: Polyester<br>-   Diameter: 13mm<br>-   Length: ?                                  | HellernammTyton: 170-01002  | [Conrad: 540704](https://www.conrad.com/ce/en/product/540704/HellermannTyton-170-01002-Twist-In-13-Helagaine-Meshwork-Hose-Black)                                                                                                                                                                                                                        |
-| 3mm nylon cable           | Support for extruder cables        | -   Material: Nylon<br>-   Diameter: 3mm (not 2.85mm like nylon filament!)<br>-   Length: ?     | ?                           | ?                                                                                                                                                                                                                                                                                                                                                        |
 
 ### Power Supply
 
