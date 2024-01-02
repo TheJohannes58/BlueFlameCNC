@@ -13,5 +13,5 @@ Gdstime DC 24V 60x60x20mm Axial 3D Printer Cooling Fan
 4020 24V Cooling Fan Turbo Blower Silent Fan  
 <img src="../images/FYSETC.webp" width=600 height=350 title="Fan" />  
 
-<a href="https://www.aliexpress.us/item/3256801278415934.html" target="_blank"> Aliexpress</a>
+<a href="https://www.aliexpress.us/item/3256801278415934.html" target="_blank"> Aliexpress </a>
 
