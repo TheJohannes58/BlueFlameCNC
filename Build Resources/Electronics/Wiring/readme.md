@@ -33,12 +33,6 @@ Connection Components
 | 2-pin connector (body) | 2.50mm Pitch, Receptacle Crimp Housing, Single Row, Friction Lock, 2 Circuits, 22-28 AWG | <img src="../images/XHP-2.jpg" width=250 height=150 title="Molex" /> | XHP-2 | [TTI Europe: XHP-2](https://www.ttieurope.com/content/ttieurope/en/apps/part-detail.html?partsNumber=XHP-2&mfgShortname=JST&productId=483198098&minQty=1000)<br/>[DigiKey: XHP-2](https://www.digikey.com/en/products/detail/jst-sales-america-inc/XHP-2/555485)<br/>[TME: XHP-2](https://www.tme.eu/en/details/xhp-2/raster-signal-connectors-2-50mm/jst/) |
 | 2/3/4/5/6 Pin (Kit) | JST-XH Plug Kit, 2.54 mm Pin Male and Female Adapter Cable Male Female 2.54 mm Female Metal Pin Connector, 22-28 AWG | <img src="../images/JST-XH-kit.jpg" width=250 height=150 title="Molex" /> | JST XH | [JST-XH Plug Kit](https://www.amazon.com/Connector-Housing-Adapter-Terminal-Connectors/dp/B0BZDCGJ32/ref=sr_1_3?keywords=JST-XH+Plug+Kit&qid=1704224672&sr=8-3)|
 
-### Heated Bed
-
-| Part Name |  Description | Photo | Mfg Part # | Source / Source Part Number |
-|-----------|-----------------------|---------------|-------------------------|-----------------------------|
-| x | x | x | x | x |
-
 ### Power Connection
 
 | Part Name |  Description | Photo | Mfg Part # | Source / Source Part Number |
@@ -46,5 +40,10 @@ Connection Components
 | Power Inlet<br> Combination consists<br> of appliance plug, 2-pole<br> rocker switch and fuse holder. | - Number of poles: 2 + PE<br> - Continuous current: 10A<br> - Fuse holder: 6.3A<br> - Rated voltage: 250V AC<br> - With rocker switch and fuse holder<br> - Connection by flat cable plug 4.8mm<br> - Snap-in assembly | <img src="../images/KB-INLET-10A.webp" width=250 height=250 title="Molex" /> | 59JR-1011FR |[ Fermio Labs: KB-INLET-10A](https://fermio.xyz/k-b/power-inlet-iec-60320/) | 
 |  |  |  |  |  |  |
 
+### Heated Bed
+
+| Part Name |  Description | Photo | Mfg Part # | Source / Source Part Number |
+|-----------|-----------------------|---------------|-------------------------|-----------------------------|
+| x | x | x | x | x |
 
 
