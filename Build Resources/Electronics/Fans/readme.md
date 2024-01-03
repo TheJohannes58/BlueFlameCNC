@@ -9,7 +9,7 @@
 | 4020B Turbo Blower fan | Nozzle fan | - 5V/12V/24V<br>- 0.2A/0.6A/0.07A<br>- 6500 RPM<br>- Size: 40x20 mm<br>- Airflow: 3.67 CFM | GDB 4020 Blower | [Stime Cooling](https://www.aliexpress.us/item/3256801278415934.html) |
 
 ### Axial Fans
-| 40x40x10 Axial Fan | Gdstime DC 24V 60x60x20mm Axial 3D Printer Cooling Fan |
+| Gdstime 40x40x10 Axial Fan | Gdstime 60x60x20mm Axial Case Ventilation Fan |
 |-----|-----|
 | <img src="../images/Gdstime-24V-40x40x10mm.webp" width=350 height=350 title="Fan" /> |  <img src="../images/Gdstime-24V-60x60x20mm.webp" width=350 height=350 title="Fan" /> |  
 | [Aliexpress](https://www.aliexpress.us/item/2251832540325686.html) | [Aliexpress](https://www.aliexpress.us/item/2251832540325686.html) |
@@ -18,7 +18,7 @@
 
 ## Centrifugal Fan
 
-4020 24V Cooling Fan Turbo Blower Silent Fan  
+24V 4020B Turbo Blower fan  
 
 <img src="../images/Gdstime.webp" width=350 height=350 title="Fan" /> <img src="../images/Gdstime-b.webp" width=350 height=350 title="Fan" />  
 
