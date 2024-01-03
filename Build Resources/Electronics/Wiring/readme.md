@@ -40,10 +40,16 @@ Connection Components
 | Power Inlet<br> Combination consists<br> of appliance plug, 2-pole<br> rocker switch and fuse holder. | - Number of poles: 2 + PE<br> - Continuous current: 10A<br> - Fuse holder: 6.3A<br> - Rated voltage: 250V AC<br> - With rocker switch and fuse holder<br> - Connection by flat cable plug 4.8mm<br> - Snap-in assembly | <img src="../images/KB-INLET-10A.webp" width=250 height=250 title="Molex" /> | 59JR-1011FR |[ Fermio Labs: KB-INLET-10A](https://fermio.xyz/k-b/power-inlet-iec-60320/) | 
 |  |  |  |  |  |  |
 
+### RJ-45 USB
+
+| Part Name |  Description | Photo | Mfg Part # | Source / Source Part Number |
+|-----------|-----------------------|---------------|-------------------------|-----------------------------|
+| Keystone Inline Coupler RJ45 | Snap-in Keystone Coupler provides a female-to-female feed-through connection for easy cable hook-up | <img src="../images/NK4012.png" width=350 height=350 title="NK4012"/> | NK4012 | [Fermio](https://fermio.xyz/logilink/logilink-cat.6-keystone-inline-coupler-utp/)<br> [Lecktor](https://lecktor.com/en/connectors/1158-keystone-socket-unshielded-cat6-4052792026870.html)<br>[Mouser](https://mou.sr/3twU8X1)<br>[TME](https://www.tme.com/us/en-us/details/log-nk4012/rj-connectors/logilink/nk4012/)<br> |
+| Keystone in-line coupler USB-A 3.0 female > USB-A 3.0 female | Snap-in Keystone Module suitable for standard keystone panels and outlets | <img src="../images/NK0015B.png"  width=350 height=350 title="NK0015B" /> |  NK0015B | [Fermio](https://fermio.xyz/logilink/logilink-usb3.0-keystone-coupler-type-a-f-f/)<br>  [TME](https://www.tme.com/in/en/details/log-nk0015b/usb-ieee1394-connectors/logilink/nk0015b/)<br>  [Mouser](https://mou.sr/3NLMU8g) |
+---
+
 ### Heated Bed
 
 | Part Name |  Description | Photo | Mfg Part # | Source / Source Part Number |
 |-----------|-----------------------|---------------|-------------------------|-----------------------------|
 | x | x | x | x | x |
-
-
