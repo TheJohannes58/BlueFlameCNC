@@ -4,14 +4,15 @@
 
 | Part Name | Used In / Description | Specification | Manufacture Part Number | Source / Source Part Number |
 |-----------|-----------------------|---------------|-------------------------|-----------------------------|
-| No tua fan      | Hotend fan            | - 5V<br>- 0.05A<br>- 4500 RPM<br>- Size: 40x40x10 mm<br>- Mounting hole spacing: 32x32 mm<br>- Airflow: 8,2 m³/h (4.83 CFM)<br>- Static Pressure: 1,78 mm H₂O | Noctua NF-A4x10 5V | [Noctua website](x) |
-| 5015 Blower fan | Nozzle fan            | - 5V<br>- 0.30A<br>- 4500 RPM<br>- Size: 50x50x15 mm<br>- Mounting hole spacing: 38x43 mm<br>- Airflow: 3.8 CFM | ? | ? |
+| GDSTIME<br> GDA-4010 | Hotend Chill´n | - 5V/12V/24V<br>- 0.1A/0.05A/0.04A<br>- 7500 RPM<br>- Size: 40x40x10 mm<br>- Airflow: 4.83 CFM |GDA-4010 5/12/24V | [Stime Cooling](https://www.aliexpress.us/item/2251832540325686.html) |
+| GDSTIME<br> GDA-6020 | Case Ventilation | - 12V/24V<br>- 0.1A<br>- 5000 RPM<br>- Size: 60x60x20 mm<br>- Airflow: 20.8 CFM |GDA-6020 12/24V | [Stime Cooling](https://www.aliexpress.us/item/3256805058829666.html) |
+| 4020B Turbo Blower fan | Nozzle fan | - 5V/12V/24V<br>- 0.2A/0.6A/0.07A<br>- 6500 RPM<br>- Size: 40x20 mm<br>- Airflow: 3.67 CFM | GDB 4020 Blower | [Stime Cooling](https://www.aliexpress.us/item/3256801278415934.html) |
 
 ### Axial Fans
-| 40x40x10 Axial Fan | Gdstime DC 24V 60x60x20mm Axial 3D Printer Cooling Fan   |
+| 40x40x10 Axial Fan | Gdstime DC 24V 60x60x20mm Axial 3D Printer Cooling Fan |
 |-----|-----|
 | <img src="../images/Gdstime-24V-40x40x10mm.webp" width=350 height=350 title="Fan" /> |  <img src="../images/Gdstime-24V-60x60x20mm.webp" width=350 height=350 title="Fan" /> |  
-| [Aliexpress](https://www.aliexpress.us/item/2251832540325686.html) | [Aliexpress](https://www.aliexpress.us/item/2251832540325686.html)  |
+| [Aliexpress](https://www.aliexpress.us/item/2251832540325686.html) | [Aliexpress](https://www.aliexpress.us/item/2251832540325686.html) |
 ---
 
 
