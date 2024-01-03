@@ -11,7 +11,7 @@
 | 40x40x10 Axial Fan | Gdstime DC 24V 60x60x20mm Axial 3D Printer Cooling Fan   |
 |-----|-----|
 | <img src="../images/Gdstime-24V-40x40x10mm.webp" width=350 height=350 title="Fan" /> |  <img src="../images/Gdstime-24V-60x60x20mm.webp" width=350 height=350 title="Fan" /> |  
-| [Link](https://www.aliexpress.us/item/2251832540325686.html) | [Aliexpress-1](https://www.aliexpress.us/item/2251832540325686.html) [Aliexpress-2](https://www.aliexpress.us/item/2251832540325686.html) |
+| [Aliexpress](https://www.aliexpress.us/item/2251832540325686.html) | [Aliexpress](https://www.aliexpress.us/item/2251832540325686.html)  |
 ---
 
 
