@@ -1,2 +1,6 @@
 What is the build plate on a 3D printer?
 Build Plate (Heated Bed, Print Bed, or Build Plate): Type of build plate used in many 3D printers which keep the base of the build object warm to prevent the object from cooling unevenly and warping as a result. The surface of the 3D printer on which the 3D printed part is formed. Also known as 'bed' or 'build plate'.
+
+![Build-Plate](../images/build-plate.webp)
+
+**Build Plate (Heated Bed, Print Bed, or Build Plate):**  Type of build plate used in many 3D printers which keep the base of the build object warm to prevent the object from cooling unevenly and warping as a result.The surface of the 3D printer on which the 3D printed part is formed. Also known as ‘bed’ or ‘build plate’.
