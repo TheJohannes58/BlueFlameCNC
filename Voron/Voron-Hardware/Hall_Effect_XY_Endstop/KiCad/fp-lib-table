@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name HallEffect_XY)(type KiCad)(uri ${KIPRJMOD}/Library/HallEffect_XY.pretty)(options "")(descr ""))
-)

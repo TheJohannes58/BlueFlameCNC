@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name HallEffect_XY)(type Legacy)(uri ${KIPRJMOD}/Library/HallEffect_XY.lib)(options "")(descr ""))
-)

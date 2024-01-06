@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name Microswitch)(type Legacy)(uri ${KIPRJMOD}/Microswitch.lib)(options "")(descr ""))
-)
