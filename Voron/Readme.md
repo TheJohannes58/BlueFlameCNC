@@ -1,16 +1,16 @@
 # What's here
 
-Printers  
+## Printers  
    * Voron 0.2r1
    * Voron Trident
    * Voron Switchwire 
    * Voron 2.4
 
-Extruders  
+## Extruders  
    * Stealthburner
    * Afterburner 
 
-Custom Parts  
+## Custom Parts  
    * Parts - DIN  
       *  DIN Mounts  
          * Controllers
@@ -32,7 +32,7 @@ Custom Parts
       * STL's
    * Hardware
 
-Images  
+## Images  
    * Various photos in the local files
    
 # Voron 3D Printer Specs
