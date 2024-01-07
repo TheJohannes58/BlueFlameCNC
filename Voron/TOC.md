@@ -11,11 +11,26 @@ Extruders
    * Afterburner 
 
 Custom Parts  
-   * Parts - DIN
-   * Extras (various parts)
-   * Voron Tap
+   * Parts - DIN  
+      *  DIN Mounts  
+         * Controllers
+         * Misc
+         * Power Supplies
+   * Extras (various parts)  
+      * Bed Models
+      * Fonts
+      * Images
+      * Ornaments
+      * Test Prints
+      * Utilities
+   * Voron Tap  
+      * CAD
+      * config
+      * images
+      * Manual
+      * OptoTap
+      * STL's
    * Hardware
-
 
 Images  
    * Various photos in the local files
