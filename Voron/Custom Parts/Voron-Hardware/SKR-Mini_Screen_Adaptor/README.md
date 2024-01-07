@@ -1,1 +1,0 @@
-## Select the SKR board you have for the correct adaptor 

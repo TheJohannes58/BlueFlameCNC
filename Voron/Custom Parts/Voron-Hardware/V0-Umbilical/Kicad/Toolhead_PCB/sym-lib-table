@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name Toolhead_PCB)(type Legacy)(uri ${KIPRJMOD}/Library/Toolhead_PCB.lib)(options "")(descr ""))
-)
