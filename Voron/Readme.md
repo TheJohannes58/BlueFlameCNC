@@ -1,8 +1,4 @@
-<<<<<<< HEAD
  # What's here
-=======
-# What's here
->>>>>>> d72a6d4ccf98791d8b392582dd1fd2802919641b
 
 ## Printers  
    * Voron 0.2r1
