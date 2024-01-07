@@ -5,7 +5,7 @@ The above link includes the stealthburner toolhead files which are compatible wi
 To keep things organized, StealthBurner’s files are maintained separately. 
 the Stealthburner Repository can be browsed by clicking [HERE](https://github.com/VoronDesign/Voron-Stealthburner)
 
-<img src="images/voron_trident_SB.png" title="Image of Voron Trident" /><br>
+<img src="../../images/voron_trident_SB.png" title="Image of Voron Trident" /><br>
 
 The official release of the Voron Trident 3D printer.  You can find the Bill of Materials in the configurator located at the [Voron Design]( http://vorondesign.com/voron_trident) web site.  The recommended sizes for this printer are 250x250x250, 300x300x250 and 350x350x250.
 
