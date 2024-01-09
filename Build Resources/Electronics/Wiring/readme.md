@@ -38,7 +38,7 @@ Connection Components
 | Part Name |  Description | Photo | Mfg Part # | Source / Source Part Number |
 |-----------|-------------------------|-----------------|--------------------------|-----------------------------|
 | Power Inlet<br> Combination consists<br> of appliance plug, 2-pole<br> rocker switch and fuse holder. | - Number of poles: 2 + PE<br> - Continuous current: 10A<br> - Fuse holder: 6.3A<br> - Rated voltage: 250V AC<br> - With rocker switch and fuse holder<br> - Connection by flat cable plug 4.8mm<br> - Snap-in assembly | <img src="../images/KB-INLET-10A.webp" width=250 height=250 title="Molex" /> | 59JR-1011FR |[ Fermio Labs: KB-INLET-10A](https://fermio.xyz/k-b/power-inlet-iec-60320/) | 
-|  |  |  |  |  | https://www.amazon.de/501638-Kaltgeraete-Steckverbinder-Stecker-vertikal-Gesamtpolzahl/dp/B005G3QGS6/ref=asc_df_B005G3QGS6/?tag=googshopde-21&linkCode=df0&hvadid=633969664940&hvpos=&hvnetw=g&hvrand=2287905193562039826&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9044215&hvtargid=pla-2203891421972&psc=1&mcid=7fc7aa97c50b323eb9526f752d8bdbd4&th=1&psc=1 |
+|  |  |  |  |  |  |
 
 ### RJ-45 / USB Panel Mount
 
