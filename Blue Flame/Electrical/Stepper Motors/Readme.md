@@ -6,3 +6,9 @@ A Nema 23 stepper motor is a stepper motor with a 2.3 x 2.3 inch (57 x 57mm) fac
 | 1.2Nm(169.93oz.in) 2.8A | 1.85Nm(261.98oz.in) 2.8A | 1.89Nm(267.65oz.in) 3A |
 
 NEMA stepper motor sizes depend on the frame size of the stepper motor. NEMA means the standards set by “National Electrical Manufacturers Association”, which is comprised of 560 major electrical manufacturers in the United States, primarily consisting of manufacturers of equipment and devices for power generation, transmission, distribution, and power applications. The purpose of standard setting is to eliminate misunderstandings between electrical product manufacturers and users and to specify the safety of these product applications.
+
+<a href="Blue Flame/Electrical/Stepper Motors/Nema 23/23HS30-2804S.md"> xx1 </a>
+
+<a href="Blue Flame/Electrical/Stepper Motors/Nema 23/23HS30-2804S.md"> xx2 </a>
+
+<a href="Blue Flame/Electrical/Stepper Motors/Nema 23/23HS30-3004S.md"> xx3 </a>
